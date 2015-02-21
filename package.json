@@ -1,0 +1,19 @@
+{
+  "name": "node-drone",
+  "version": "1.0.0",
+  "description": "TreeHacks drone project",
+  "main": "control.js",
+  "dependencies": {
+    "ar-drone": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ar-drone",
+    "treehacks"
+  ],
+  "author": "",
+  "license": "ISC"
+}
